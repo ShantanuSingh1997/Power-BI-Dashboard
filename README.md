@@ -1,1 +1,1 @@
-# Power-BI-Dashboard on Superstore Sales & Profit for the yeaar 2019-2020
+# Power-BI-Dashboard on Superstore Sales & Profit for the year 2019-2020
